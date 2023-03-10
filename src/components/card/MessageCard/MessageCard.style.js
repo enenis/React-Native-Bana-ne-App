@@ -1,0 +1,59 @@
+import { StyleSheet } from 'react-native'
+import colors from '../../../styles/colors'
+export default StyleSheet.create({
+    container:{
+        backgroundColor:colors.darkgreen,
+        marginBottom: 10,
+        borderRadius:10
+    },
+    inner_container:{
+        flexDirection:"row",
+        justifyContent:"space-between",
+        padding:10
+    },
+    user:{
+        color:"white"
+    },
+    date:{
+        color:"white"
+
+    },
+    title:{
+        padding:3,
+        paddingHorizontal:10,
+        color:"white",
+        marginBottom:10,
+    },
+    box_container:{
+        flexDirection:"row",
+        justifyContent:"space-between",
+    },
+    box:{
+        padding:5,
+        paddingHorizontal:10,
+        backgroundColor:"white",
+        borderRadius:50,
+        margin:6,
+        marginRight:10,
+        flexDirection:"row",
+        justifyContent:"space-between",
+    },
+    box_text:{
+        textAlign:"center",
+        fontWeight:"bold",
+        color:colors.darkgreen
+    },
+    dislike_container:{
+        backgroundColor:colors.darkgreen,
+        borderRadius:50,
+        padding:2,
+        marginRight:10
+    },
+    dislike:{
+        color:"white",
+        fontWeight:"bold",
+        textAlignVertical:"center",
+        textAlign:"center",
+       margin:1
+    }
+})
