@@ -22,8 +22,4 @@ Hello, In this project, I made an application that you can share your thoughts, 
 <small>Thank you so much for reading and reviewing this far.</small><br>
 ~Enis Kayra Yavuz
 enenissoftware
-
-
-![Screenshot_1678539419]()
-
 <hr>
