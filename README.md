@@ -16,7 +16,7 @@ Hello, In this project, I made an application that you can share your thoughts, 
 <br>
 <hr>
 <b>Message Send Screen:<br></b>
-<img src="https://user-images.githubusercontent.com/99321522/221856847-80e5b17d-637e-4226-831b-7de192730998.png" width="350" height="800" />
+<img src="https://user-images.githubusercontent.com/99321522/224485995-d15ba324-c8d6-4b3d-89d9-937c01b7130b.png" width="350" height="800" />
 <br>
 <hr>
 <b>Favorite Page and Remove Section Screen:<br></b>
@@ -28,5 +28,6 @@ enenissoftware
 ![Screenshot_1678539323]()
 ![Screenshot_1678539325]()
 ![Screenshot_1678539418]()
+![Screenshot_1678539419]()
 
 <hr>
