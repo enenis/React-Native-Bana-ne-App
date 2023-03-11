@@ -2,7 +2,7 @@
 <b>Title:</b>
 Hello, In this project, I made an application that you can share your thoughts, instantly renewed and disliked. After registration, you can log in and use the application.
 <hr>
-<br><b>Detailed Photos;</b><br>
+<br><b>Detailed Photos;</b>
 <br><b>Login Screen:<br></b>
 <img src="https://user-images.githubusercontent.com/99321522/224485866-5ccb8ed3-2699-426c-9c23-a736c0674fdc.png" width="350" height="800" />
 <br>
