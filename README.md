@@ -18,10 +18,7 @@ Hello, In this project, I made an application that you can share your thoughts, 
 <b>Message Send Screen:<br></b>
 <img src="https://user-images.githubusercontent.com/99321522/224485995-d15ba324-c8d6-4b3d-89d9-937c01b7130b.png" width="350" height="800" />
 <br>
-<hr>
-<b>Favorite Page and Remove Section Screen:<br></b>
-<img src="https://user-images.githubusercontent.com/99321522/221857180-fd842076-fab7-4765-abd2-488b1fe46b5f.png" width="350" height="800" />
-<br>
+
 <small>Thank you so much for reading and reviewing this far.</small><br>
 ~Enis Kayra Yavuz
 enenissoftware
