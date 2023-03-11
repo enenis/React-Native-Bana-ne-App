@@ -11,7 +11,7 @@ Hello, In this project, I made an application that you can share your thoughts, 
 <br>
 <hr>
 <b>Messages Screen:<br></b>
-<img src="https://user-images.githubusercontent.com/99321522/221856686-372361f7-3a65-4633-ae32-3ac87057ae83.png" width="350" height="800" />
+<img src="https://user-images.githubusercontent.com/99321522/224485945-759a06f8-4c59-4702-beb6-f9d7a1fbfd7b.png" width="350" height="800" />
 <br>
 <hr>
 <b>Message Send Screen:<br></b>
@@ -26,5 +26,6 @@ Hello, In this project, I made an application that you can share your thoughts, 
 enenissoftware
 ![Screenshot_1678539323]()
 ![Screenshot_1678539325]()
+![Screenshot_1678539418]()
 
 <hr>
