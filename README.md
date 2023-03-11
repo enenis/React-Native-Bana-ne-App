@@ -24,7 +24,7 @@ Hello, In this project, I made an application that you can share your thoughts, 
 enenissoftware
 ![Screenshot_1678539323]()
 ![Screenshot_1678539325]()
-![Screenshot_1678539418]()
+
 ![Screenshot_1678539419]()
 
 <hr>
