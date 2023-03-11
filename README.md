@@ -6,7 +6,7 @@ Hello, In this project, I made an application that you can share your thoughts, 
 <img src="https://user-images.githubusercontent.com/99321522/224485866-5ccb8ed3-2699-426c-9c23-a736c0674fdc.png" width="350" height="800" />
 <br>
 <hr>
-<br><b>Job's Screen:<br></b>
+<br><b>Register Screen:<br></b>
 <img src="https://user-images.githubusercontent.com/99321522/221856406-eb6d5eff-fc50-4f85-91a1-b550713033e2.png" width="350" height="800" />
 <br>
 <hr>
