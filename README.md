@@ -7,7 +7,7 @@ Hello, In this project, I made an application that you can share your thoughts, 
 <br>
 <hr>
 <br><b>Register Screen:<br></b>
-<img src="https://user-images.githubusercontent.com/99321522/221856406-eb6d5eff-fc50-4f85-91a1-b550713033e2.png" width="350" height="800" />
+<img src="https://user-images.githubusercontent.com/99321522/224485926-125bc196-4c01-40bf-b12e-3b46c83d9fc5.png" width="350" height="800" />
 <br>
 <hr>
 <b>Messages Screen:<br></b>
@@ -25,5 +25,6 @@ Hello, In this project, I made an application that you can share your thoughts, 
 ~Enis Kayra Yavuz
 enenissoftware
 ![Screenshot_1678539323]()
+![Screenshot_1678539325]()
 
 <hr>
