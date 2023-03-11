@@ -10,7 +10,7 @@ Hello, In this project, I made an application that you can share your thoughts, 
 <img src="https://user-images.githubusercontent.com/99321522/221856406-eb6d5eff-fc50-4f85-91a1-b550713033e2.png" width="350" height="800" />
 <br>
 <hr>
-<b>Job Detail Screen:<br></b>
+<b>Messages Screen:<br></b>
 <img src="https://user-images.githubusercontent.com/99321522/221856686-372361f7-3a65-4633-ae32-3ac87057ae83.png" width="350" height="800" />
 <br>
 <hr>
